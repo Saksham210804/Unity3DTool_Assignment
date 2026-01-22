@@ -103,6 +103,7 @@ public class UIManager : MonoBehaviour
         }
        GameComponents gameObjectActive = selectionManager.CurrentSelected;
         objectSpawner.RemoveComponent(gameObjectActive.GameObjectType, gameObjectActive.gameObject);
+        HideTransform();
     }
 
     /// <summary>
