@@ -1,6 +1,6 @@
 # Unity 3D Tool Development Assignment
 
-## 📌 Overview
+##  Overview
 
 I am grateful for the opportunity to work on this assignment. It was a **valuable learning experience** that allowed me to strengthen my understanding of **Unity editor-style tool development**, **camera systems**, **UI-driven object manipulation**, and **performance-oriented coding practices**.
 
@@ -10,7 +10,7 @@ The project is developed using **Unity 2022.3.44f1 LTS** and follows clean, modu
 
 ---
 
-## 🎯 Assignment Objectives Covered
+##  Assignment Objectives Covered
 
 This project fulfills **all requirements** mentioned in the assignment PDF, including:
 
@@ -23,9 +23,9 @@ This project fulfills **all requirements** mentioned in the assignment PDF, incl
 
 ---
 
-## 🧱 Core Features
+##  Core Features
 
-### 1️⃣ Object Spawning System
+### 1️ Object Spawning System
 
 - A dedicated **UI panel** lists basic Unity 3D primitives:
   - Cube  
@@ -41,7 +41,7 @@ This project fulfills **all requirements** mentioned in the assignment PDF, incl
 
 ---
 
-### 2️⃣ Object Selection & Manipulation
+### 2️ Object Selection & Manipulation
 
 - Objects can be **selected using Left Click**
 - Selected object is clearly **highlighted** for visual feedback
@@ -50,7 +50,7 @@ This project fulfills **all requirements** mentioned in the assignment PDF, incl
 
 ---
 
-### 3️⃣ Property Panel (Object Inspector)
+### 3️ Property Panel (Object Inspector)
 
 - Displays **Position values (X, Y, Z)** of the selected object
 - Values are **editable in real time**
@@ -60,11 +60,11 @@ This project fulfills **all requirements** mentioned in the assignment PDF, incl
 
 ---
 
-### 4️⃣ Camera Navigation System
+### 4️ Camera Navigation System
 
 The camera system is designed to feel **smooth, intuitive, and editor-like**.
 
-#### 🎮 Controls
+####  Controls
 
 | Input | Action |
 |------|-------|
@@ -78,7 +78,7 @@ The **focus feature** ensures fast navigation in scenes with multiple objects.
 
 ---
 
-### 5️⃣ Dynamic Object Pooling (Performance Focus)
+### 5️ Dynamic Object Pooling (Performance Focus)
 
 - Implemented a **dynamic object pooling system**
 - A **single Object Pool class** is used for **all object types**
@@ -90,7 +90,7 @@ The **focus feature** ensures fast navigation in scenes with multiple objects.
 
 ---
 
-## 🧠 Code Quality & Architecture
+##  Code Quality & Architecture
 
 - Fully **modular and maintainable codebase**
 - Each system is separated logically:
@@ -106,7 +106,7 @@ The **focus feature** ensures fast navigation in scenes with multiple objects.
 
 ---
 
-## 📚 XML Documentation
+##  XML Documentation
 
 - **Every script includes XML documentation**
 - Each class and method explains:
@@ -124,26 +124,26 @@ The structure is designed to scale and remain understandable even as features gr
 
 ---
 
-## ▶️ Build & Demo Links
+##  Build & Demo Links
 
-### 🔹 Game Build
-👉 https://drive.google.com/file/d/1v5kXUiYXLaxIrfwGw8_-4f3x15Aa2lGa/view?usp=sharing
+###  Game Build
+ https://drive.google.com/file/d/1v5kXUiYXLaxIrfwGw8_-4f3x15Aa2lGa/view?usp=sharing
 
-### 🔹 Gameplay Video
-👉 https://drive.google.com/file/d/1S1yHbyI4EIDEEyI32m9zmw_zJ6EK1gOi/view?usp=sharing
+###  Gameplay Video
+ https://drive.google.com/file/d/1S1yHbyI4EIDEEyI32m9zmw_zJ6EK1gOi/view?usp=sharing
 
-### 🔹 Documentation
-👉 https://assignment-documentation.netlify.app/
+###  Documentation
+ https://assignment-documentation.netlify.app/
 
 ---
 
-## 🧪 Unity Version
+##  Unity Version
 
 - **Unity 2022.3.44f1 LTS**
 
 ---
 
-## 🙏 Final Notes
+##  Final Notes
 
 This assignment was a **great hands-on learning experience** that helped me improve my understanding of:
 
