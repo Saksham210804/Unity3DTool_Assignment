@@ -1,0 +1,25 @@
+var class_u_i_manager =
+[
+    [ "AddButton", "class_u_i_manager.html#a28a14bb3a3b82e1caab01dbf2cf0bd08", null ],
+    [ "HideTransform", "class_u_i_manager.html#aaccea999e3cb952d3d8c261d87c91b39", null ],
+    [ "OnPositionInputChanged", "class_u_i_manager.html#adf08937d25ed70d82b8dddd9fbc59250", null ],
+    [ "RemoveButton", "class_u_i_manager.html#ad7981391a237b7799b56a9a93ddec487", null ],
+    [ "ShowTransform", "class_u_i_manager.html#a20a7b9d627d21f6cc6dba4ed483eacae", null ],
+    [ "SpawnButton", "class_u_i_manager.html#a66ddd938cf2a75debccdbe67ac30f0d4", null ],
+    [ "SpawnCapsule", "class_u_i_manager.html#a7947c660477f83933a8ce1f56406d634", null ],
+    [ "SpawnCube", "class_u_i_manager.html#a658711e5104311194dc5ab96fa718b0a", null ],
+    [ "SpawnCylinder", "class_u_i_manager.html#af31e92665e7b6534ac8a0452f8c558fd", null ],
+    [ "SpawnPlane", "class_u_i_manager.html#a8d8ba1cc2426886f03310cfd7a2fcd49", null ],
+    [ "SpawnQuad", "class_u_i_manager.html#a1d4e2da6d7208c9c97ca6ac7bfa1a167", null ],
+    [ "SpawnSphere", "class_u_i_manager.html#a584f49209c2ffa7e43bb154fecde5eb8", null ],
+    [ "ComponentsPanel", "class_u_i_manager.html#a2460307b930bcd88fdfabca526e0ff38", null ],
+    [ "objectPosition", "class_u_i_manager.html#a324104771721d5df1de45de206c42253", null ],
+    [ "objectSpawner", "class_u_i_manager.html#ad47552a588e78aef6162fafff4241901", null ],
+    [ "objectXPosition", "class_u_i_manager.html#abb9ceedc4cf04d4a54e108f64e3fe995", null ],
+    [ "objectYPosition", "class_u_i_manager.html#af05e56e375451b24cb824c6c9d197072", null ],
+    [ "objectZPosition", "class_u_i_manager.html#a460840387cbab38b808836c05a453cf2", null ],
+    [ "Origin", "class_u_i_manager.html#a37c0ab91e71adf0914dae7817b49dbf2", null ],
+    [ "selectionManager", "class_u_i_manager.html#a6d8e69abe2560952a8bed502e0d334b0", null ],
+    [ "showComponents", "class_u_i_manager.html#ae9dfc08ed6218bc7ca35b08755a801cb", null ],
+    [ "TransformPanel", "class_u_i_manager.html#a7000c6f0ff5466a8b7ae5c5b549f3ed1", null ]
+];
