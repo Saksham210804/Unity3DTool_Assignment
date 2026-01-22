@@ -120,4 +120,44 @@ The **focus feature** ensures fast navigation in scenes with multiple objects.
 
 
 
+The structure is designed to scale and remain understandable even as features grow.
+
+---
+
+## ▶️ Build & Demo Links
+
+### 🔹 Game Build
+👉 https://drive.google.com/file/d/1v5kXUiYXLaxIrfwGw8_-4f3x15Aa2lGa/view?usp=sharing
+
+### 🔹 Gameplay Video
+👉 https://drive.google.com/file/d/1S1yHbyI4EIDEEyI32m9zmw_zJ6EK1gOi/view?usp=sharing
+
+### 🔹 Documentation
+👉 *(To be added)*
+
+---
+
+## 🧪 Unity Version
+
+- **Unity 2022.3.44f1 LTS**
+
+---
+
+## 🙏 Final Notes
+
+This assignment was a **great hands-on learning experience** that helped me improve my understanding of:
+
+- Tool-based development in Unity  
+- Camera mechanics similar to editor tools  
+- Clean UI-driven workflows  
+- Performance optimization using object pooling  
+
+I have implemented everything **strictly according to the assignment PDF**, while also applying **industry-level coding standards** wherever possible.
+
+I would genuinely appreciate any **feedback or suggestions for improvement**, as they would help me grow further as a Unity developer.
+
+Thank you for the opportunity.
+
+---
+
 
